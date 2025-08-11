@@ -26,7 +26,7 @@ The CPU Scheduling Visualization Tool will provide an engaging and educational p
 
 ### How to host the application on a Wide Area Network
 
-Click on this link to launch the application: [https://yogyatanegi.github.io/]
+Click on this link to launch the application: [https://yogyatanegi.github.io/Schedular/]
 
 ### How to host the application on a Local server
 
